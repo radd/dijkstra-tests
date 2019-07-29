@@ -1,0 +1,2 @@
+Main-Class: dijkstra.Dijkstra
+Class-Path: lib\java-json.jar

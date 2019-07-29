@@ -1,0 +1,10 @@
+cmd.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\Build\vcvars64.bat"
+cl
+
+cl dijkstra.c cJSON.c
+dijkstra.exe 100
+
+----------------
+
+gcc dijkstra.c cJSON.c -o dijkstra.exe
